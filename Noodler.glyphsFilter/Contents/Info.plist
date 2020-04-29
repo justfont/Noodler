@@ -21,7 +21,7 @@
 	<key>productPageURL</key>
 	<string>https://github.com/mekkablue/Noodler</string>
 	<key>productReleaseNotes</key>
-	<string>Added Chinese localisation (thx 张大可 and 杨翕丞).</string>
+	<string>Added zh-Hant localisation.</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright, Rainer Erich Scheichelbauer, 2014-2018</string>
 	<key>NSPrincipalClass</key>
